@@ -1,5 +1,5 @@
 # Acadêmico
 
-Repositório criado para armazenar práticas/atividades acadêmicos.
+Repositório criado para armazenar práticas/atividades acadêmicas.
 
 ---
