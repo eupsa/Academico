@@ -1,4 +1,6 @@
 import time
+import emoji
+# importar biblioteca de som
 
 i = 0
 
